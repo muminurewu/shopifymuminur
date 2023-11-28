@@ -1,0 +1,24 @@
+curl -X GET \ https://muminurstore.myshopify.com/admin/api/2023-10/products.json \ -H 'Content-Type: application/json' \ -H 'X-Shopify-Access-Token:$2y$12$A.mfCsJ44kLd1ccdecZzKOpVJXWK8k2oYw2np3yxJfg8neUiqSN9q'
+
+
+Admin API access token
+
+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  testapp1
+
+
+API key
+
+d8f58675c82c742b26717e970bc013bd
+API secret key
+
+60007adf54e56264b7bdae21bad90d35
+
+
+
+
+
+
+//testapp2
+
+da6a530f6f6877ab862020e82d32d396
+b42180b2553e907cc73b56a9ecc34c56
